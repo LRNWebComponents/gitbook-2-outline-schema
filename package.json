@@ -16,7 +16,9 @@
     "test": "mocha",
     "watch": "npm-watch"
   },
-  "keywords": [],
+  "keywords": [
+    "gitbook"
+  ],
   "author": "heyMP",
   "license": "MIT",
   "devDependencies": {
