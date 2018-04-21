@@ -1,6 +1,6 @@
 {
   "name": "gitbook-2-outline-schema",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Convert a Gitbook SUMMARY.md file to a linear json outline schema.",
   "main": "index.js",
   "watch": {
