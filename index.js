@@ -1,6 +1,6 @@
 const fs = require('fs');
 const showdown = require('showdown');
-const converter = new showdown.Converter();
+const converter = new showdown.Converter({ smartIndentationFix: true, disableForced4SpacesIndentedSublists: true });
 const cheerio = require('cheerio')
 const randomstring = require("randomstring");
 
